@@ -1,0 +1,14 @@
+{
+  "name": "tic-tac-toe-logic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^22.4.3"
+  }
+}
+
+
